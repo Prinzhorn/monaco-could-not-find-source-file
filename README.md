@@ -1,6 +1,7 @@
 Reproducible in Chrome 80.0.3987.106 on Ubuntu 19.10
 
 ```sh
+npm install
 npm start
 ```
 
