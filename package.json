@@ -1,0 +1,18 @@
+{
+  "name": "monaco-could-not-find-source-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./build_workers.sh && parcel index.html"
+  },
+  "author": "Alexander Prinzhorn",
+  "license": "MIT",
+  "dependencies": {
+    "monaco-editor": "^0.20.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "prettier": "^1.19.1"
+  }
+}
